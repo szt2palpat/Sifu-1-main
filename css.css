@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.navbar{
+    width: 100%;
+}
+.container{
+   width: 100%;
+}
+header{
+    background-color: black;
+}
+a{
+    color: black;
+}
